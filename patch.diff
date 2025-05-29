@@ -1,0 +1,24 @@
+From 1fd94f4f97511c06c0c38a9752780a6264b37310 Mon Sep 17 00:00:00 2001
+From: babng5742 <bbang5742@naver.com>
+Date: Thu, 29 May 2025 15:10:36 +0900
+Subject: [PATCH] =?UTF-8?q?Create=20=ED=8C=A8=EC=B9=98=EC=8B=A4=EC=8A=B5?=
+ =?UTF-8?q?=EC=9D=84=20=EC=9C=84=ED=95=9C=20=ED=8C=8C=EC=9D=BC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 패치실습을 위한 파일 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 패치실습을 위한 파일
+
+diff --git a/패치실습을 위한 파일 b/패치실습을 위한 파일
+new file mode 100644
+index 0000000..3dcbcd0
+--- /dev/null
++++ b/패치실습을 위한 파일	
+@@ -0,0 +1 @@
++아무의미없는 내용 001
+-- 
+2.46.0.windows.1
+
